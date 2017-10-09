@@ -3,7 +3,7 @@
 #nav-links-ul li{display: inline-block;padding: 10px 14px;}
 header {text-align: center;padding-top: 52px;padding-bottom: 25px;}
 .hero {text-align: center;background-image: url(/assets/img/pad-and-pen-cropped2a.jpg);padding: 3em 0;margin-bottom: 3em;}
-.hero-toptext {font-size: 50px;color: #444;text-shadow: 1px 1px lightgray; font-family: 'Lora', serif;margin-bottom: .7em;line-height: 1.2em;}
+.hero-toptext {font-size: 2.7em;color: #444;text-shadow: 1px 1px lightgray; font-family: 'Lora', serif;margin-bottom: .7em;line-height: 1.2em;}
 .hero-subtext1 {font-family: 'Raleway', sans-serif;font-size: 1.3em; color:rgb(63, 63, 63);margin-bottom: 1em;}
 #homepage-hero-subtext2 {font-family: 'Raleway', sans-serif;font-size: 1.1em;color:rgb(98, 98, 98);}
 footer {padding-top: 7em; text-align: center;font-size: 9px;}
