@@ -1,0 +1,46 @@
+/*Hey, use some icon to lead the li items instead of those lines, u fucker.*/
+#nav-links-ul {list-style-type: none;padding: 30px 0;}
+#nav-links-ul li{display: inline-block;padding: 10px 14px;}
+header {text-align: center;padding-top: 52px;padding-bottom: 25px;}
+.hero {text-align: center;background-image: url(/assets/img/pad-and-pen-cropped2a.jpg);padding: 3em 0;margin-bottom: 3em;}
+.hero-toptext {font-size: 50px;color: #444;text-shadow: 1px 1px lightgray; font-family: 'Lora', serif;margin-bottom: .7em;line-height: 1.2em;}
+.hero-subtext1 {font-family: 'Raleway', sans-serif;font-size: 1.3em; color:rgb(63, 63, 63);margin-bottom: 1em;}
+#homepage-hero-subtext2 {font-family: 'Raleway', sans-serif;font-size: 1.1em;color:rgb(98, 98, 98);}
+footer {padding-top: 7em; text-align: center;font-size: 9px;}
+#homepage-content h3 {margin-bottom: .8em;}
+#homepage-content p {font-size: 1.1em;}
+#homepage-content ul {list-style: none;text-align: center;}
+#homepage-content ul li:nth-child(1) {font-size:1.4em;}
+#homepage-content img {margin: 0 auto;display: block;margin-top: .5em;}
+#pca-credits p {text-align: center;font-size: 12px;margin-top: 1em;}
+
+#subpages-hero {
+    background-image: url(/assets/img/pad-and-pen-cropped3.jpg);
+    min-height: 3em;}
+.menu.medium-horizontal {
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-ms-flex-direction: row;
+	flex-direction: row;
+	justify-content: center;
+}
+.nav-link a {
+    color:#333;
+    font-size: 1.1.em;
+}
+.nav-link a:hover,.nav-link a:focus  {
+    background: #9FD2DC;
+    border-radius: 3px;
+}
+
+.top-bar-title img {
+	margin-bottom: 1em;
+}
+.subpage-header {
+    background-image: url(/assets/img/pad-and-pen-cropped2.jpg);
+    text-align: center;padding: 2em 0;margin-bottom: 3em;
+}
+.subpage-header h2 {color: #333; text-shadow: 1px 1px #777;}
+.subpages-content p {padding-left: 3em;}
+#sponsors img {margin: 0 auto!important;display: block!important;text-align: center;}
+#sponsors .row {margin: 0 0 2em 0;}
